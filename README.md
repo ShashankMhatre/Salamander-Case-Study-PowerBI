@@ -16,25 +16,15 @@ Build interactive dashboards using Power BI to uncover insights from sales and p
 | `Simply Salamander.pbix` | Main Power BI dashboard file |
 | `Simply Salamander Case-Study - Data.xlsx` | Raw data source used in Power BI |
 | `Simply Salamander Case-Study PDF.pdf` | Business case and problem statement |
-| `Images/` | Folder containing dashboard screenshots |
+| `Simply_Salamander_Dashboard_Preview.pdf` | Dashboard screenshots in PDF format |
 
 ---
 
-## 🌐 Dashboard Preview
+## 📄 Dashboard Preview
 
-### 📈 Sales Dashboard
-![Sales Dashboard](Images/sales_dashboard.png)
+All Power BI dashboards and interactivity examples are captured in this downloadable PDF:
 
-- Year-over-year revenue comparison
-- Top performing states and products
-- Trend analysis and visual KPIs
-
-### 🛋️ Procurement Dashboard
-![Procurement Dashboard](Images/procurement_dashboard.png)
-
-- Cost breakdown by vendor
-- Quantity ordered trends
-- Category-wise procurement KPIs
+👉 [Download Dashboard Screenshots (PDF)](./Simply_Salamander_Dashboard_Preview.pdf)
 
 ---
 
